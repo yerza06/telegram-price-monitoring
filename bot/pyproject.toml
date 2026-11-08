@@ -1,0 +1,41 @@
+[project]
+name = "bot"
+version = "0.1.0"
+description = "Telegram-бот для мониторинга цен продавцов на Kaspi.kz"
+readme = "README.md"
+authors = [
+    { name = "Yernaz Kengesbekov", email = "yernazkenesbekov24@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "aiogram>=3.31.0",
+    "aiosqlite>=0.22.1",
+    "alembic>=1.20.1",
+    "apscheduler>=3.10,<4",
+    "httpx>=0.28.1",
+    "pydantic-settings>=2.16.1",
+    "rich>=15.0.0",
+    "selectolax>=1.0.2",
+    "sqlalchemy[asyncio]>=2.1.6",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.1",
+    "ruff>=0.17.3",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+pythonpath = ["src", "tests"]
+# без __init__.py в тестах и с одинаковыми conftest.py в подпапках
+addopts = "--import-mode=importlib"

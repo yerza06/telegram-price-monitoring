@@ -1,0 +1,3728 @@
+{
+    "offers": [
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "234005",
+            "merchantName": "ALPHA",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 220,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb черный",
+            "price": 360054.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "234005_PP1"
+            ],
+            "pointsWithAvailability": [
+                "234005_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "234005_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "234005_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "234005_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "234005_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "540017",
+            "merchantName": "FORTUNA",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 130,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb черный",
+            "price": 363068.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "540017_PP2"
+            ],
+            "pointsWithAvailability": [
+                "540017_PP2"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "540017_PP2",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "540017_PP2",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "540017_PP2",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "540017_PP2",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "7429010",
+            "merchantName": "Prime Mobile KZ",
+            "merchantSku": "113137790_595319986",
+            "merchantReviewsQuantity": 231,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 363071.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "7429010_PP4"
+            ],
+            "pointsWithAvailability": [
+                "7429010_PP4"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "7429010_PP4",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "7429010_PP4",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "7429010_PP4",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "7429010_PP4",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30419775",
+            "merchantName": "MOBILNIK.KZ",
+            "merchantSku": "113137790_104647628",
+            "merchantReviewsQuantity": 2,
+            "merchantRating": 5.0,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 363171.0,
+            "delivery": "2026-10-30T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "30419775_PP2"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30419775_PP2",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-30T18:00:00.000+00:00",
+                    "deliveryDays": 3,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30419775_PP2",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-30T18:00:00.000+00:00",
+                    "deliveryDays": 3,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30419775_PP2",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-30T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "3932001",
+            "merchantName": "Gadgetkz АВТОРИЗОВАННЫЙ МАГАЗИН",
+            "merchantSku": "113137790_452514",
+            "merchantReviewsQuantity": 146,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 369000.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "3932001_PP3"
+            ],
+            "pointsWithAvailability": [
+                "3932001_PP3"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "3932001_PP3",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "3932001_PP3",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "3932001_PP3",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "3932001_PP3",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "11288003",
+            "merchantName": "Nexum",
+            "merchantSku": "113137790_3",
+            "merchantReviewsQuantity": 136,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb черный",
+            "price": 369990.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-30T19:00:00.000+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "11288003_1128808",
+                "11288003_1128807"
+            ],
+            "warehousesWithAvailability": [
+                "11288003_1128808"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "11288003_1128808",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-30T19:00:00.000+00:00",
+                    "deliveryDays": 3,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "11288003_1128808",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-30T19:00:00.000+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "11288003_1128808",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "11288003_1128808",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "11368000",
+            "merchantName": "Amir.ON",
+            "merchantSku": "113137790_440418747",
+            "merchantReviewsQuantity": 52,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 369999.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "11368000_PP5"
+            ],
+            "pointsWithAvailability": [
+                "11368000_PP5"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "11368000_PP5",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "11368000_PP5",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "11368000_PP5",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "11368000_PP5",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Satel",
+            "merchantName": "SATEL",
+            "merchantSku": "94439PHN",
+            "merchantReviewsQuantity": 1111,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 370000.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "Satel_001"
+            ],
+            "warehousesWithAvailability": [
+                "Satel_001"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Satel_001",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "Satel_001",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "Satel_001",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Satel_001",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30402490",
+            "merchantName": "MOBIL MARKET",
+            "merchantSku": "113137790_995057671",
+            "merchantReviewsQuantity": 30,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 370000.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "30402490_PP1"
+            ],
+            "warehousesWithAvailability": [
+                "30402490_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30402490_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "30402490_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30402490_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30402490_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "11271005",
+            "merchantName": "Tehno Trade",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 231,
+            "merchantRating": 4.8,
+            "title": "Смартфон Apple iPhone 15 128Gb черный",
+            "price": 372480.0,
+            "delivery": "2026-10-27T08:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-31T19:00:00.000+00:00"
+            },
+            "kdPickupDate": "2026-10-27T04:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "11271005_PP2",
+                "11271005_PP1"
+            ],
+            "warehousesWithAvailability": [
+                "11271005_PP2"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "11271005_PP2",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-31T19:00:00.000+00:00",
+                    "deliveryDays": 4,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "11271005_PP2",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-31T19:00:00.000+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T08:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T04:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "11271005_PP2",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T08:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "11271005_PP2",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "5403005",
+            "merchantName": "Kaz_Phones",
+            "merchantSku": "113137790_571310199",
+            "merchantReviewsQuantity": 32,
+            "merchantRating": 4.8,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 373300.0,
+            "delivery": "2026-10-27T10:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T06:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "5403005_PP1"
+            ],
+            "pointsWithAvailability": [
+                "5403005_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "5403005_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "5403005_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T10:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T06:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "5403005_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T10:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "5403005_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "12329046",
+            "merchantName": "UMMAH STORE",
+            "merchantSku": "113137790_192252",
+            "merchantReviewsQuantity": 78,
+            "merchantRating": 5.0,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 384000.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "12329046_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "12329046_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "12329046_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "12329046_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "960061",
+            "merchantName": "Sirius",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 1036,
+            "merchantRating": 5.0,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 384900.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "960061_PP1"
+            ],
+            "pointsWithAvailability": [
+                "960061_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "960061_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "960061_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "960061_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "960061_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "ArtisOptima",
+            "merchantName": "Artis Optima",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 486,
+            "merchantRating": 5.0,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 384900.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "ArtisOptima_PP1"
+            ],
+            "warehousesWithAvailability": [
+                "ArtisOptima_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "ArtisOptima_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "ArtisOptima_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "ArtisOptima_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "ArtisOptima_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "4096001",
+            "merchantName": "Click - Верифицированный IMEI",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 54,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 384900.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "4096001_PP1"
+            ],
+            "pointsWithAvailability": [
+                "4096001_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "4096001_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "4096001_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "4096001_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "4096001_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30464335",
+            "merchantName": "AYTOMI STORE",
+            "merchantSku": "113137790_994140063",
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 393890.0,
+            "delivery": "2026-10-27T19:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T19:00:00.000+00:00"
+            },
+            "kdPickupDate": "2026-10-27T01:43:09.563+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "30464335_PP1"
+            ],
+            "warehousesWithAvailability": [
+                "30464335_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30464335_PP1",
+            "deliveryDuration": "TOMORROW",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T19:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30464335_PP1",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T19:00:00.000+00:00"
+                    },
+                    "interCity": false
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30464335_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "2231000",
+            "merchantName": "Favorite",
+            "merchantSku": "2480221098",
+            "merchantReviewsQuantity": 72,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb черный",
+            "price": 406500.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "2231000_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "2231000_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "2231000_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "2231000_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "3716004",
+            "merchantName": "Vibe Tech",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 383,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 409993.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.563+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "3716004_PP1"
+            ],
+            "pointsWithAvailability": [
+                "3716004_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "3716004_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "3716004_PP1",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "3716004_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "3716004_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "12261014",
+            "merchantName": "KBT Bars",
+            "merchantSku": "113137790_270931198",
+            "merchantReviewsQuantity": 328,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb черный",
+            "price": 410000.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "12261014_PP1"
+            ],
+            "pointsWithAvailability": [
+                "12261014_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "12261014_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "12261014_PP1",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "12261014_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "12261014_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30438562",
+            "merchantName": "iPrime",
+            "merchantSku": "113137790_855755942",
+            "merchantReviewsQuantity": 0,
+            "merchantRating": 0.0,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 415000.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "30438562_PP1"
+            ],
+            "pointsWithAvailability": [
+                "30438562_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30438562_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30438562_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "30438562_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30438562_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "4883002",
+            "merchantName": "FONIQ",
+            "merchantSku": "113137790_983956862",
+            "merchantReviewsQuantity": 199,
+            "merchantRating": 5.0,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 419774.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "4883002_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "4883002_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "4883002_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "4883002_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "493043",
+            "merchantName": "SMART TRADE",
+            "merchantSku": "iPhone15128Black",
+            "merchantReviewsQuantity": 309,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb черный",
+            "price": 419900.0,
+            "delivery": "2026-10-30T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "493043_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "493043_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_5_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-30T18:00:00.000+00:00",
+                    "deliveryDays": 3,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "493043_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-30T18:00:00.000+00:00",
+                    "deliveryDays": 3,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "493043_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-30T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Smartshop1",
+            "merchantName": "T-Space",
+            "merchantSku": "113137790_537881147",
+            "merchantReviewsQuantity": 0,
+            "merchantRating": 0.0,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 419995.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "Smartshop1_PP1"
+            ],
+            "warehousesWithAvailability": [
+                "Smartshop1_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Smartshop1_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "Smartshop1_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "Smartshop1_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Smartshop1_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "13630023",
+            "merchantName": "BERLIN",
+            "merchantSku": "113137790_944035461",
+            "merchantReviewsQuantity": 88,
+            "merchantRating": 5.0,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 420000.0,
+            "delivery": "2026-10-28T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "13630023_PP1"
+            ],
+            "pointsWithAvailability": [
+                "13630023_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "13630023_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "13630023_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "13630023_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "9022005",
+            "merchantName": "Best Tech",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 64,
+            "merchantRating": 4.9,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 420000.0,
+            "delivery": "2026-10-28T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "9022005_PP2"
+            ],
+            "pointsWithAvailability": [
+                "9022005_PP2"
+            ],
+            "warehousesWithAvailability": [
+                "9022005_PP19"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "9022005_PP2",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TOMORROW",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "9022005_PP2",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "9022005_PP2",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Gadgetcity",
+            "merchantName": "GadgetON",
+            "merchantSku": "113137790_381153576",
+            "merchantReviewsQuantity": 340,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 421339.0,
+            "delivery": "2026-10-27T01:43:09.555+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T01:43:09.564+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "pointsWithAvailability": [
+                "Gadgetcity_PP6"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Gadgetcity_PP6",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Gadgetcity_PP6",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                }
+            }
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "4074002",
+            "merchantName": "Мобитайм",
+            "merchantSku": "12353499",
+            "merchantReviewsQuantity": 332,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 421340.0,
+            "delivery": "2026-10-27T01:43:09.555+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T01:43:09.564+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "4074002_PP16"
+            ],
+            "pointsWithAvailability": [
+                "4074002_PP1",
+                "4074002_PP16"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "4074002_PP1",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "4074002_PP1",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "4074002_PP16",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30441518",
+            "merchantName": "ЭКОSALE",
+            "merchantSku": "113137790_614344888",
+            "merchantReviewsQuantity": 16,
+            "merchantRating": 4.7,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 421350.0,
+            "delivery": "2026-10-28T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "30441518_PP1"
+            ],
+            "warehousesWithAvailability": [
+                "30441518_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30441518_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TOMORROW",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30441518_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30441518_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "SuperPrice",
+            "merchantName": "SuperPrice",
+            "merchantSku": "615066",
+            "merchantReviewsQuantity": 26814,
+            "merchantRating": 4.9,
+            "title": "Смартфон Iphone / 15 128GB Black (MTP03HX/A)",
+            "price": 421413.0,
+            "delivery": "2026-10-27T08:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T04:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "SuperPrice_30007987",
+                "SuperPrice_30004200",
+                "SuperPrice_30006696",
+                "SuperPrice_3000902",
+                "SuperPrice_30002511",
+                "SuperPrice_3000821",
+                "SuperPrice_30001644",
+                "SuperPrice_3000864",
+                "SuperPrice_2805",
+                "SuperPrice_1718",
+                "SuperPrice_8392",
+                "SuperPrice_1357",
+                "SuperPrice_9000",
+                "SuperPrice_2448",
+                "SuperPrice_2765",
+                "SuperPrice_4107",
+                "SuperPrice_2886",
+                "SuperPrice_9126",
+                "SuperPrice_1231",
+                "SuperPrice_5875",
+                "SuperPrice_2485",
+                "SuperPrice_3057",
+                "SuperPrice_5752",
+                "SuperPrice_4345",
+                "SuperPrice_7987",
+                "SuperPrice_1273",
+                "SuperPrice_8958",
+                "SuperPrice_4020",
+                "SuperPrice_1193",
+                "SuperPrice_3050",
+                "SuperPrice_928",
+                "SuperPrice_7193",
+                "SuperPrice_3805",
+                "SuperPrice_1987",
+                "SuperPrice_2559",
+                "SuperPrice_4419",
+                "SuperPrice_9012",
+                "SuperPrice_5868",
+                "SuperPrice_7032",
+                "SuperPrice_4337",
+                "SuperPrice_2511",
+                "SuperPrice_2754",
+                "SuperPrice_1820",
+                "SuperPrice_1864",
+                "SuperPrice_2036",
+                "SuperPrice_1144",
+                "SuperPrice_2993",
+                "SuperPrice_30009425",
+                "SuperPrice_4698",
+                "SuperPrice_2079",
+                "SuperPrice_3164",
+                "SuperPrice_997",
+                "SuperPrice_1060",
+                "SuperPrice_7080",
+                "SuperPrice_8492",
+                "SuperPrice_2747",
+                "SuperPrice_1137",
+                "SuperPrice_5813",
+                "SuperPrice_3952",
+                "SuperPrice_2588",
+                "SuperPrice_8299",
+                "SuperPrice_1573",
+                "SuperPrice_2785",
+                "SuperPrice_2342",
+                "SuperPrice_6147",
+                "SuperPrice_9108",
+                "SuperPrice_3110",
+                "SuperPrice_2066",
+                "SuperPrice_4200",
+                "SuperPrice_1053",
+                "SuperPrice_2020",
+                "SuperPrice_6780",
+                "SuperPrice_821",
+                "SuperPrice_864",
+                "SuperPrice_902",
+                "SuperPrice_1809",
+                "SuperPrice_3629",
+                "SuperPrice_2613",
+                "SuperPrice_7296",
+                "SuperPrice_2456",
+                "SuperPrice_4514",
+                "SuperPrice_1644",
+                "SuperPrice_1287",
+                "SuperPrice_7970",
+                "SuperPrice_5887",
+                "SuperPrice_1088",
+                "SuperPrice_8422",
+                "SuperPrice_2653",
+                "SuperPrice_8940",
+                "SuperPrice_9435",
+                "SuperPrice_2098",
+                "SuperPrice_6015",
+                "SuperPrice_6696",
+                "SuperPrice_8306",
+                "SuperPrice_970",
+                "SuperPrice_1081",
+                "SuperPrice_896",
+                "SuperPrice_977"
+            ],
+            "warehousesWithAvailability": [
+                "SuperPrice_902",
+                "SuperPrice_896",
+                "SuperPrice_864",
+                "SuperPrice_2020",
+                "SuperPrice_821",
+                "SuperPrice_1644",
+                "SuperPrice_2066",
+                "SuperPrice_1864",
+                "SuperPrice_2511",
+                "SuperPrice_2588",
+                "SuperPrice_4071",
+                "SuperPrice_4200",
+                "SuperPrice_4514",
+                "SuperPrice_6696",
+                "SuperPrice_3000864",
+                "SuperPrice_7987",
+                "SuperPrice_30001644",
+                "SuperPrice_30002511",
+                "SuperPrice_30004200",
+                "SuperPrice_30006696",
+                "SuperPrice_30007987",
+                "SuperPrice_3000821",
+                "SuperPrice_3000902"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "SuperPrice_3000864",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "SuperPrice_902",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T08:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T04:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "SuperPrice_3000864",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T08:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "SuperPrice_2511",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "12233445",
+            "merchantName": "ABC Retail",
+            "merchantSku": "OF000030258",
+            "merchantReviewsQuantity": 1724,
+            "merchantRating": 4.9,
+            "title": "Смартфон iPhone 15 128GB Black",
+            "price": 421413.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "12233445_VRCskladKarKD2",
+                "12233445_VRC2RiskulovKD",
+                "12233445_VRCaktobeExp2",
+                "12233445_VRCaktobeKD2",
+                "12233445_VRC2JangeldinKD",
+                "12233445_VRC2Astana",
+                "12233445_VRCOskemenKD2"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "12233445_VRCskladKarKD2",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_5_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "12233445_VRCskladKarKD2",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "12233445_VRCskladKarKD2",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "1886004",
+            "merchantName": "Lynx",
+            "merchantSku": "113137790_153320",
+            "merchantReviewsQuantity": 44,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 425998.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "1886004_PP1"
+            ],
+            "pointsWithAvailability": [
+                "1886004_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "1886004_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "1886004_PP1",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "1886004_PP1",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "1886004_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "3348001",
+            "merchantName": "NOVKAZ",
+            "merchantSku": "113137790_322309023",
+            "merchantReviewsQuantity": 294,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb черный",
+            "price": 426008.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "3348001_PP4"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "3348001_PP4",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "3348001_PP4",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "3348001_PP4",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Computerland",
+            "merchantName": "Computer Land",
+            "merchantSku": "НФ-00011070",
+            "merchantReviewsQuantity": 70,
+            "merchantRating": 4.9,
+            "title": "IPhone 15 128 Gb Black",
+            "price": 429100.0,
+            "delivery": "2026-10-31T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "Computerland_1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Computerland_1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_5_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-31T18:00:00.000+00:00",
+                    "deliveryDays": 4,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "Computerland_1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-31T18:00:00.000+00:00",
+                    "deliveryDays": 4,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Computerland_1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-31T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30464415",
+            "merchantName": "Yablo",
+            "merchantSku": "113137790_936526633",
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 429877.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "30464415_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30464415_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30464415_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30464415_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30315881",
+            "merchantName": "ZAKSTOR",
+            "merchantSku": "113137790_516899895",
+            "merchantReviewsQuantity": 2,
+            "merchantRating": 0.0,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 430000.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "30315881_PP3"
+            ],
+            "pointsWithAvailability": [
+                "30315881_PP3"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30315881_PP3",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30315881_PP3",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "30315881_PP3",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30315881_PP3",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30236872",
+            "merchantName": "Kalabok",
+            "merchantSku": "113137790_376795965",
+            "merchantReviewsQuantity": 0,
+            "merchantRating": 0.0,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 430000.0,
+            "delivery": "2026-10-27T01:43:09.555+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T01:43:09.564+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "30236872_PP1"
+            ],
+            "pointsWithAvailability": [
+                "30236872_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30236872_PP1",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30236872_PP1",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30236872_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "2843000",
+            "merchantName": "ASR Market",
+            "merchantSku": "113137790_519411093",
+            "merchantReviewsQuantity": 78,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 430635.0,
+            "delivery": "2026-10-27T01:43:09.555+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T01:43:09.564+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "2843000_PP1"
+            ],
+            "warehousesWithAvailability": [
+                "2843000_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "2843000_PP1",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "2843000_PP1",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "2843000_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30441519",
+            "merchantName": "PROFIT-ACTIVE",
+            "merchantSku": "113137790_579658175",
+            "merchantReviewsQuantity": 7,
+            "merchantRating": 4.7,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 430690.0,
+            "delivery": "2026-10-27T01:43:09.555+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T01:43:09.564+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "30441519_PP1"
+            ],
+            "warehousesWithAvailability": [
+                "30441519_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30441519_PP1",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30441519_PP1",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30441519_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Evrika",
+            "merchantName": "Evrika",
+            "merchantSku": "OF000030258",
+            "merchantReviewsQuantity": 13938,
+            "merchantRating": 5.0,
+            "title": "Смартфон iPhone 15 128GB Black",
+            "price": 430990.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "Evrika_VRCJangeldinKD",
+                "Evrika_VRCaktobeKD",
+                "Evrika_VRCskladKarKD",
+                "Evrika_VRCastana",
+                "Evrika_VRCOskemenKD",
+                "Evrika_VRCaktobeExp",
+                "Evrika_VRCRiskulovKD"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Evrika_VRCJangeldinKD",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_5_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "Evrika_VRCJangeldinKD",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Evrika_VRCJangeldinKD",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Sulpak",
+            "merchantName": "Sulpаk",
+            "merchantSku": "615066",
+            "merchantReviewsQuantity": 57981,
+            "merchantRating": 4.9,
+            "title": "Смартфон Iphone / 15 128GB Black (MTP03HX/A)",
+            "price": 430990.0,
+            "delivery": "2026-10-27T08:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T04:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "Sulpak_7080",
+                "Sulpak_864",
+                "Sulpak_8492",
+                "Sulpak_30009425",
+                "Sulpak_8299",
+                "Sulpak_2747",
+                "Sulpak_902",
+                "Sulpak_5813",
+                "Sulpak_3952",
+                "Sulpak_2588",
+                "Sulpak_821",
+                "Sulpak_1137",
+                "Sulpak_9108",
+                "Sulpak_2342",
+                "Sulpak_1053",
+                "Sulpak_1573",
+                "Sulpak_3110",
+                "Sulpak_4200",
+                "Sulpak_2066",
+                "Sulpak_2020",
+                "Sulpak_1809",
+                "Sulpak_896",
+                "Sulpak_970",
+                "Sulpak_7296",
+                "Sulpak_3629",
+                "Sulpak_1644",
+                "Sulpak_7970",
+                "Sulpak_8422",
+                "Sulpak_2613",
+                "Sulpak_2456",
+                "Sulpak_4514",
+                "Sulpak_8940",
+                "Sulpak_9435",
+                "Sulpak_5887",
+                "Sulpak_977",
+                "Sulpak_2653",
+                "Sulpak_8306",
+                "Sulpak_1287",
+                "Sulpak_2098",
+                "Sulpak_1088",
+                "Sulpak_2053",
+                "Sulpak_1081",
+                "Sulpak_1718",
+                "Sulpak_8392",
+                "Sulpak_2805",
+                "Sulpak_9000",
+                "Sulpak_9126",
+                "Sulpak_2448",
+                "Sulpak_4107",
+                "Sulpak_6696",
+                "Sulpak_2765",
+                "Sulpak_2886",
+                "Sulpak_6015",
+                "Sulpak_1357",
+                "Sulpak_2565",
+                "Sulpak_5875",
+                "Sulpak_2485",
+                "Sulpak_4345",
+                "Sulpak_3057",
+                "Sulpak_7987",
+                "Sulpak_1273",
+                "Sulpak_5752",
+                "Sulpak_8958",
+                "Sulpak_1231",
+                "Sulpak_1193",
+                "Sulpak_928",
+                "Sulpak_4020",
+                "Sulpak_3050",
+                "Sulpak_3090",
+                "Sulpak_7193",
+                "Sulpak_9012",
+                "Sulpak_3805",
+                "Sulpak_7032",
+                "Sulpak_4419",
+                "Sulpak_6780",
+                "Sulpak_2559",
+                "Sulpak_1820",
+                "Sulpak_1743",
+                "Sulpak_1864",
+                "Sulpak_5868",
+                "Sulpak_1987",
+                "Sulpak_2511",
+                "Sulpak_2754",
+                "Sulpak_6147",
+                "Sulpak_4337",
+                "Sulpak_997",
+                "Sulpak_2036",
+                "Sulpak_2993",
+                "Sulpak_4698",
+                "Sulpak_4532",
+                "Sulpak_2079",
+                "Sulpak_1144",
+                "Sulpak_6825",
+                "Sulpak_3164",
+                "Sulpak_1060",
+                "Sulpak_30004200",
+                "Sulpak_30007987",
+                "Sulpak_3000821",
+                "Sulpak_3000864",
+                "Sulpak_30006696",
+                "Sulpak_30002511",
+                "Sulpak_3000902",
+                "Sulpak_30001644"
+            ],
+            "pointsWithAvailability": [
+                "Sulpak_821",
+                "Sulpak_2020",
+                "Sulpak_779",
+                "Sulpak_2066",
+                "Sulpak_1644",
+                "Sulpak_2588",
+                "Sulpak_2511",
+                "Sulpak_1864",
+                "Sulpak_4200",
+                "Sulpak_4514",
+                "Sulpak_4071",
+                "Sulpak_6696",
+                "Sulpak_864",
+                "Sulpak_7987"
+            ],
+            "warehousesWithAvailability": [
+                "Sulpak_896",
+                "Sulpak_902",
+                "Sulpak_3000821",
+                "Sulpak_3000864",
+                "Sulpak_30001644",
+                "Sulpak_30002511",
+                "Sulpak_30006696",
+                "Sulpak_30004200",
+                "Sulpak_30007987",
+                "Sulpak_3000902"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Sulpak_3000902",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Sulpak_821",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T08:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T04:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "Sulpak_3000902",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T08:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "Sulpak_2066",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Ipointkz",
+            "merchantName": "iSpace Apple Premium Partner",
+            "merchantSku": "MTP03HX/A",
+            "merchantReviewsQuantity": 357,
+            "merchantRating": 4.9,
+            "title": "iPhone 15 128GB Black Model A3090",
+            "price": 430990.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "Ipointkz_AportEast",
+                "Ipointkz_MegaPark",
+                "Ipointkz_MEGA",
+                "Ipointkz_ATYRAU"
+            ],
+            "pointsWithAvailability": [
+                "Ipointkz_MEGA",
+                "Ipointkz_MegaPark",
+                "Ipointkz_AportEast"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Ipointkz_AportEast",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Ipointkz_MEGA",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "Ipointkz_AportEast",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "Ipointkz_AportEast",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30434551",
+            "merchantName": "AQ Tech",
+            "merchantSku": "MTP03HX/A",
+            "merchantReviewsQuantity": 134,
+            "merchantRating": 4.9,
+            "title": "iPhone 15 128GB Black Model A3090",
+            "price": 430990.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "30434551_MegaPark",
+                "30434551_MEGA",
+                "30434551_ATYRAU",
+                "30434551_AportEast"
+            ],
+            "warehousesWithAvailability": [
+                "30434551_MEGA",
+                "30434551_MegaPark",
+                "30434551_AportEast"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30434551_AportEast",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30434551_MEGA",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "30434551_AportEast",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30434551_MEGA",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30466697",
+            "merchantName": "ТОО \"I'REBUPLIC.KZ\"",
+            "merchantSku": "113137790_569211084",
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 434000.0,
+            "delivery": "2026-11-01T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "30466697_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30466697_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_5_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-11-01T18:00:00.000+00:00",
+                    "deliveryDays": 5,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30466697_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-11-01T18:00:00.000+00:00",
+                    "deliveryDays": 5,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30466697_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-11-01T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "4509002",
+            "merchantName": "CN-MARKET",
+            "merchantSku": "113137790_447719",
+            "merchantReviewsQuantity": 380,
+            "merchantRating": 4.9,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 434777.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "4509002_PP40"
+            ],
+            "pointsWithAvailability": [
+                "4509002_PP40"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "4509002_PP40",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "4509002_PP40",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "4509002_PP40",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "4509002_PP40",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "15376069",
+            "merchantName": "MEGAPHONE",
+            "merchantSku": "113137790_853383512",
+            "merchantReviewsQuantity": 365,
+            "merchantRating": 5.0,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 449893.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "15376069_PP12"
+            ],
+            "warehousesWithAvailability": [
+                "15376069_PP12"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "15376069_PP12",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "15376069_PP12",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "15376069_PP12",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "15376069_PP12",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "30174702",
+            "merchantName": "UMMAH STORE 2",
+            "merchantSku": "113137790_166576898",
+            "merchantReviewsQuantity": 0,
+            "merchantRating": 0.0,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 449900.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "30174702_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30174702_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "30174702_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "30174702_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "3112005",
+            "merchantName": "Mobile_Shop",
+            "merchantSku": "113137790_983349484",
+            "merchantReviewsQuantity": 224,
+            "merchantRating": 5.0,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 459990.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "3112005_PP4"
+            ],
+            "pointsWithAvailability": [
+                "3112005_PP4"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "3112005_PP4",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "3112005_PP4",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "3112005_PP4",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "3112005_PP4",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Mobiline",
+            "merchantName": "Mobiline-Kz",
+            "merchantSku": "113137790_431598256",
+            "merchantReviewsQuantity": 104,
+            "merchantRating": 4.5,
+            "title": "Apple iPhone 15 128Gb черный",
+            "price": 459990.0,
+            "delivery": "2026-10-29T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "Mobiline_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Mobiline_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "deliveryOptions": {
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "Mobiline_PP1",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                },
+                "TO_DOOR": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Mobiline_PP1",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "6873020",
+            "merchantName": "Galaxy Mobile",
+            "merchantSku": "113137790_680199253",
+            "merchantReviewsQuantity": 419,
+            "merchantRating": 5.0,
+            "title": "Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 474900.0,
+            "delivery": "2026-10-27T01:43:09.555+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T01:43:09.564+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "6873020_PP11"
+            ],
+            "warehousesWithAvailability": [
+                "6873020_PP11"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "6873020_PP11",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "6873020_PP11",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "6873020_PP11",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "10843008",
+            "merchantName": "Baly Shop",
+            "merchantSku": "113137790",
+            "merchantReviewsQuantity": 445,
+            "merchantRating": 4.9,
+            "title": "Смартфон Apple iPhone 15 128Gb NanoSIM+eSIM черный",
+            "price": 475000.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+                "10843008_06f"
+            ],
+            "pointsWithAvailability": [
+                "10843008_06f"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "10843008_06f",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "10843008_06f",
+                    "kaspiDelivery": true,
+                    "deliveryCost": 0.0,
+                    "deliveryThreshold": 5000.0,
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "10843008_06f",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-28T18:00:00.000+00:00",
+                    "deliveryDays": 1,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "10843008_06f",
+                    "kaspiDelivery": true,
+                    "interCity": false
+                }
+            },
+            "postomat": "2026-10-28T18:00:00.000+00:00"
+        },
+        {
+            "masterSku": "113137790",
+            "masterCategory": "Master - Smartphones",
+            "merchantId": "Mechta",
+            "merchantName": "Mechta.kz",
+            "merchantSku": "17200007627",
+            "merchantReviewsQuantity": 26159,
+            "merchantRating": 4.9,
+            "title": "iPhone 15 128GB (Black)",
+            "price": 482990.0,
+            "delivery": "2026-10-27T09:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+                "MA": "2026-10-27T01:43:09.555+00:00",
+                "D": "2026-10-27T19:00:00.000+00:00"
+            },
+            "pickupSteps": {
+                "P": "2026-10-27T01:43:09.555+00:00",
+                "MA": "2026-10-27T01:43:09.555+00:00"
+            },
+            "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+            "availabilityDate": "2026-10-27T01:43:09.564+00:00",
+            "pickup": "2026-10-27T01:43:09.555+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+                "Mechta_48",
+                "Mechta_28",
+                "Mechta_22",
+                "Mechta_21",
+                "Mechta_R6"
+            ],
+            "pointsWithAvailability": [
+                "Mechta_R6"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "Mechta_R6",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TODAY",
+            "deliveryOptions": {
+                "TO_DOOR": {
+                    "delivery": "2026-10-27T19:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "TO_DOOR",
+                    "locatedInPoint": "Mechta_R6",
+                    "kaspiDelivery": false,
+                    "deliverySteps": {
+                        "MA": "2026-10-27T01:43:09.555+00:00",
+                        "D": "2026-10-27T19:00:00.000+00:00"
+                    },
+                    "interCity": false
+                },
+                "PICKUP": {
+                    "delivery": "2026-10-27T01:43:09.555+00:00",
+                    "deliveryDays": 0,
+                    "deliveryType": "PICKUP",
+                    "deliverySteps": {
+                        "P": "2026-10-27T01:43:09.555+00:00",
+                        "MA": "2026-10-27T01:43:09.555+00:00"
+                    },
+                    "interCity": false
+                },
+                "EXPRESS": {
+                    "delivery": "2026-10-27T09:00:00.000+00:00",
+                    "deliveryDays": 0,
+                    "kdPickupDate": "2026-10-27T05:55:00.000+00:00",
+                    "deliveryType": "EXPRESS",
+                    "locatedInPoint": "Mechta_R6",
+                    "kaspiDelivery": true,
+                    "cost": 995.0,
+                    "deliveryCost": 995.0,
+                    "deliveryThreshold": 999999999.0,
+                    "interCity": false,
+                    "description": {
+                        "deliveryDurationInHours": 3,
+                        "deliverySlotsExists": true,
+                        "deferredExpress": true,
+                        "deferredExpressDate": "2026-10-27T09:00:00Z"
+                    }
+                },
+                "POSTOMAT": {
+                    "delivery": "2026-10-29T18:00:00.000+00:00",
+                    "deliveryDays": 2,
+                    "kdPickupDate": "2026-10-27T15:00:00.000+00:00",
+                    "deliveryType": "POSTOMAT",
+                    "locatedInPoint": "Mechta_48",
+                    "kaspiDelivery": true,
+                    "interCity": true
+                }
+            },
+            "postomat": "2026-10-29T18:00:00.000+00:00"
+        }
+    ],
+    "total": 51,
+    "offersCount": 51,
+    "pcmResponsePresent": false,
+    "deliveryDurationFacetValues": {
+        "TODAY": 35,
+        "TOMORROW": 38,
+        "TILL_2_DAYS": 46,
+        "TILL_5_DAYS": 51,
+        "TILL_7_DAYS": 51,
+        "OTHER": 51
+    },
+    "brandOfficialPartnerPresent": false,
+    "excellentMerchantPresent": false
+}
